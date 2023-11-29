@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Bachelor's degree in Economy at Tashkent Institute of Finance<br>🤝 I'm open to collaborating on mobile application projects<br>🌱 I’m currently learning Flutter ❤️<br>💬 Ask me about anything, I'd be happy to help. I can specifically help you with: Flutter(Dart)<br>⚡ Fun fact: I love reading & podcasts
+👨‍🎓 Bachelor's degree<br>🤝 I'm open to collaborating on mobile application projects<br>🌱 I’m currently learning Flutter ❤️<br>💬 Ask me about anything, I'd be happy to help. I can specifically help you with: Flutter(Dart)<br>⚡ Fun fact: I love reading & podcasts
 
 
 
