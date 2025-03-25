@@ -71,23 +71,6 @@ I'm a dedicated Mobile Application Developer with a Bachelor's degree in Compute
 ![Machine Learning](https://img.shields.io/badge/ML_Integration-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AR/VR](https://img.shields.io/badge/AR/VR-Ready-4B0082?style=for-the-badge&logo=arkit&logoColor=white)
 
-## 📱 Portfolio Highlights
-
-### Super Manager
-A comprehensive management application featuring modern UI, offline-first architecture, and advanced analytics built with clean architecture principles.
-- **Technologies**: Flutter, Dart, BLoC, Provider, SQLite
-- **Features**: Dynamic theming, biometric authentication, push notifications, performance optimization
-
-### Xolodilnik Delivery
-A robust Flutter-based delivery management system designed to streamline logistics operations.
-- **Technologies**: Flutter, Firebase, Google Maps API
-- **Features**: Real-time tracking, route optimization, payment gateway integration
-
-### Face ID
-A sophisticated face recognition system built for enhanced security applications.
-- **Technologies**: Flutter, TensorFlow Lite, Firebase ML Kit
-- **Features**: Real-time face detection, authentication, secure storage
-
 ## 📊 GitHub Statistics
 
 <div align="center">
